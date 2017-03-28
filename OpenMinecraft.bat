@@ -1,6 +1,6 @@
 @ECHO OFF
-q:
-cd "Year 8\Ben\minecraftedu\" && (
+a:
+cd "Fakepath" && (
   echo cd was successful
 ) || (
   echo ERROR! Directory not found!
@@ -18,7 +18,7 @@ timeout 1 >nul
 @ECHO OFF
 cls
 color c
-echo BY USING THIS FILE, YOU AGREE TO THE TERMS AND CONDITIONS WHICH CAN BE FOUND AT:minechs.weebly.com/terms
+echo BY USING THIS FILE, YOU AGREE TO THE TERMS AND CONDITIONS WHICH CAN BE FOUND AT:ben.mctrees.net/minechs/terms
 timeout 3 >nul
 cls
 color a
