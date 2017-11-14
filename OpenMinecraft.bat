@@ -18,7 +18,7 @@ timeout 1 >nul
 @ECHO OFF
 cls
 color c
-echo BY USING THIS FILE, YOU AGREE TO THE TERMS AND CONDITIONS WHICH CAN BE FOUND AT:ben.mctrees.net/minechs/terms
+echo BY USING THIS FILE, YOU AGREE TO THE TERMS AND CONDITIONS WHICH CAN BE FOUND AT: https://minechs.weebly.com/terms.html
 timeout 3 >nul
 cls
 color a
